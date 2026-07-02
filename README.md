@@ -1,4 +1,4 @@
-<img width="1557" height="867" alt="image" src="https://github.com/user-attachments/assets/6db8861c-457e-459f-b69d-3b444da2794f" /># 🚗 DRIVE SAFE ASSIST
+# 🚗 DRIVE SAFE ASSIST
 
 ## Overview
 
